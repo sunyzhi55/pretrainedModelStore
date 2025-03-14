@@ -70,3 +70,6 @@ with torch.no_grad():
     print(f"This is {description[pred[0]]}")  # This is a dog
 ```
 
+> 其中預訓練的`CLIP`文件在對應的==release==中的
+>
+> `original clip pretrainedModel`目錄下

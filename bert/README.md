@@ -57,3 +57,7 @@ last_hidden_state torch.Size([1, 9, 768])
 > [!important]
 >
 > `BioClinical_BERT`裏面需要有`config.json`、`pytorch_model.bin`、`vocab.txt`
+
+> 其中對應的`BioClinical_BERT`預訓練模型在對應的==release==中的
+>
+> `BioClinical_BERT_pretrained_model`目錄中
