@@ -32,7 +32,9 @@ tags:
 
 直接运行`vgg_cpu.py`文件即可
 
-> 1、其中`imagenet-vgg-verydeep-19.mat`預訓練模型在對應的==release==中
+> 1、其中`imagenet-vgg-verydeep-19.mat`預訓練模型在對應的==release==中的
+>
+> `VGG_Pretrained_Model_Use_Numpy`仓库中
 >
 > 2、預訓練的模型下載地址：
 >
